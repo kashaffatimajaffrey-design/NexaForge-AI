@@ -1,0 +1,8 @@
+{
+  "name": "NexaForge AI Career Ecosystem",
+  "description": "A comprehensive AI-driven platform for semantic job matching, automated CV building, and AI-powered mock interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
